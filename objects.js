@@ -9,3 +9,5 @@ function updatePlaylist(playlistToUpdate, artistName, songTitle){
 }
 
 
+updatedPlaylist(playlist, 'testArt', "testSong")
+
