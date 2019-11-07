@@ -9,5 +9,5 @@ function updatePlaylist(playlistToUpdate, artistName, songTitle){
 }
 
 
-updatedPlaylist(playlist, 'testArt', "testSong")
+updatePlaylist(playlist, 'testArt', "testSong")
 
